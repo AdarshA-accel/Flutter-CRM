@@ -1,0 +1,43 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "flutter_crm (debug mode)",
+            "cwd": "flutter_crm",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "debug"
+        },
+        {
+            "name": "flutter_crm (debug mode, no hot reload)",
+            "cwd": "flutter_crm",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "debug",
+            "noDebug": true
+        },
+        {
+            "name": "flutter_crm",
+            "cwd": "flutter_crm",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_crm (profile mode)",
+            "cwd": "flutter_crm",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_crm (release mode)",
+            "cwd": "flutter_crm",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

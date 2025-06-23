@@ -1,0 +1,7 @@
+defaultConfig {
+    applicationId "com.yourcompany.flutter_crm"
+    minSdkVersion 21
+    targetSdkVersion 33
+}
+// Flutter CRM Android build configuration
+// This file is used to configure the Android build settings for the Flutter CRM application.

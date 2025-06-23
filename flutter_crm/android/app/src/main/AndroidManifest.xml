@@ -1,0 +1,5 @@
+<application
+    android:name="${applicationName}"
+    android:label="flutter_crm"
+    android:icon="@mipmap/ic_launcher">
+        
